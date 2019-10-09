@@ -8,7 +8,7 @@
     "start": "node client/src/index.js",
     "build": "webpack"
   },
-  "heroku-run-build-script": true,
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
